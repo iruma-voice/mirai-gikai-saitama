@@ -1,0 +1,109 @@
+import { describe, expect, it } from "vitest";
+import type { Bill } from "../types";
+import {
+  prepareBillContentsForDuplication,
+  prepareBillForDuplication,
+} from "./prepare-bill-for-duplication";
+
+const baseBill: Bill = {
+  id: "bill-001",
+  bill_number: "",
+  name: "テスト議案",
+  created_at: "2025-01-01T00:00:00Z",
+  updated_at: "2025-01-02T00:00:00Z",
+  council_session_id: "session-001",
+  is_featured: true,
+  pdf_url: null,
+  publish_status: "published",
+  published_at: null,
+  submitted_date: null,
+  share_thumbnail_url: null,
+  slug: null,
+  status: "preparing",
+  status_note: null,
+  thumbnail_url: null,
+  tag_ids: [],
+  bill_contents: [],
+  faction_stances: [],
+};
+
+describe("prepareBillForDuplication", () => {
+  it("id, created_at, updated_at, 関連配列を除去する", () => {
+    const result = prepareBillForDuplication(baseBill);
+    expect(result).not.toHaveProperty("id");
+    expect(result).not.toHaveProperty("created_at");
+    expect(result).not.toHaveProperty("updated_at");
+    expect(result).not.toHaveProperty("bill_contents");
+    expect(result).not.toHaveProperty("faction_stances");
+    expect(result).not.toHaveProperty("tag_ids");
+  });
+
+  it("名前に「(複製)」を付与する", () => {
+    const result = prepareBillForDuplication(baseBill);
+    expect(result.name).toBe("テスト議案 (複製)");
+  });
+
+  it("publish_statusをdraftに設定する", () => {
+    const result = prepareBillForDuplication(baseBill);
+    expect(result.publish_status).toBe("draft");
+  });
+
+  it("bill_numberを空文字にリセットする", () => {
+    const billWithNumber = { ...baseBill, bill_number: "第1号" };
+    const result = prepareBillForDuplication(billWithNumber);
+    expect(result.bill_number).toBe("");
+  });
+
+  it("その他のフィールドを保持する", () => {
+    const result = prepareBillForDuplication(baseBill);
+    expect(result.council_session_id).toBe("session-001");
+    expect(result.is_featured).toBe(true);
+  });
+});
+
+describe("prepareBillContentsForDuplication", () => {
+  const contents = [
+    {
+      id: "content-001",
+      bill_id: "bill-001",
+      title: "概要",
+      content: "内容1",
+      summary: "要約1",
+      difficulty_level: "normal" as const,
+      created_at: "2025-01-01T00:00:00Z",
+      updated_at: "2025-01-01T00:00:00Z",
+    },
+    {
+      id: "content-002",
+      bill_id: "bill-001",
+      title: "詳細",
+      content: "内容2",
+      summary: "要約2",
+      difficulty_level: "normal" as const,
+      created_at: "2025-01-01T00:00:00Z",
+      updated_at: "2025-01-01T00:00:00Z",
+    },
+  ];
+
+  it("id, bill_idを除去し新しいbill_idを設定する", () => {
+    const result = prepareBillContentsForDuplication(contents, "new-bill-id");
+    for (const item of result) {
+      expect(item).not.toHaveProperty("id");
+      expect(item.bill_id).toBe("new-bill-id");
+    }
+  });
+
+  it("元のコンテンツデータを保持する", () => {
+    const result = prepareBillContentsForDuplication(contents, "new-bill-id");
+    expect(result).toHaveLength(2);
+    expect(result[0].title).toBe("概要");
+    expect(result[0].content).toBe("内容1");
+    expect(result[1].title).toBe("詳細");
+    expect(result[1].content).toBe("内容2");
+  });
+
+  it("空配列を渡すと空配列を返す", () => {
+    const result = prepareBillContentsForDuplication([], "new-bill-id");
+    expect(result).toEqual([]);
+  });
+});

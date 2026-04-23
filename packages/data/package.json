@@ -1,0 +1,23 @@
+{
+  "name": "@mirai-gikai/data",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./types": "./src/types.ts",
+    "./bills": "./src/bills.ts",
+    "./factions": "./src/factions.ts",
+    "./council-sessions": "./src/council-sessions.ts",
+    "./tags": "./src/tags.ts",
+    "./paths": "./src/paths.ts"
+  },
+  "scripts": {
+    "test": "vitest run --passWithNoTests",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.0",
+    "vitest": "^3.2.4"
+  }
+}

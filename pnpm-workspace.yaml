@@ -1,0 +1,6 @@
+packages:
+  - "packages/*"
+  - "admin"
+  - "web"
+
+minimumReleaseAge: 4320

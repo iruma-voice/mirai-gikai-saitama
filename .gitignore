@@ -1,0 +1,15 @@
+node_modules
+
+# misc
+.DS_Store
+.vscode
+.claude/worktrees
+*.local.json
+
+# env files
+.env
+.env.*
+!.env.example
+
+# local claude permissions
+.claude/settings.local.json

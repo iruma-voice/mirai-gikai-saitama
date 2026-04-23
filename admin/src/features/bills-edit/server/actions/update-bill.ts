@@ -1,0 +1,36 @@
+"use server";
+
+import {
+  invalidateWebCache,
+  WEB_CACHE_TAGS,
+} from "@/lib/utils/cache-invalidation";
+import { jstDatetimeLocalToUtc } from "@/lib/utils/datetime-jst";
+import { getErrorMessage } from "@/lib/utils/get-error-message";
+import { type BillUpdateInput, billUpdateSchema } from "../../shared/types";
+import { updateBillRecord } from "../repositories/bill-edit-repository";
+
+export async function updateBill(id: string, input: BillUpdateInput) {
+  try {
+    // 管理者権限チェック
+
+    // バリデーション
+    const validatedData = billUpdateSchema.parse(input);
+
+    // Supabaseで更新
+    await updateBillRecord(id, {
+      ...validatedData,
+      published_at: validatedData.published_at
+        ? jstDatetimeLocalToUtc(validatedData.published_at)
+        : null,
+      updated_at: new Date().toISOString(),
+    });
+
+    // web側のキャッシュを無効化
+    await invalidateWebCache([WEB_CACHE_TAGS.BILLS]);
+  } catch (error) {
+    console.error("Update bill error:", error);
+    throw new Error(
+      getErrorMessage(error, "議案の更新中にエラーが発生しました")
+    );
+  }
+}

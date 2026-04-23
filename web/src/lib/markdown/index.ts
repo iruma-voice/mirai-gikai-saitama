@@ -1,0 +1,79 @@
+import { toJsxRuntime } from "hast-util-to-jsx-runtime";
+import type { ReactElement } from "react";
+import { Fragment } from "react";
+import { jsx, jsxs } from "react/jsx-runtime";
+import rehypeSanitize, { defaultSchema } from "rehype-sanitize";
+import remarkBreaks from "remark-breaks";
+import remarkGfm from "remark-gfm";
+import remarkParse from "remark-parse";
+import remarkRehype from "remark-rehype";
+import { unified } from "unified";
+import { DifficultyInfoCard } from "@/features/bills/server/components/bill-detail/difficulty-info-card";
+import { rehypeEmbedYouTube } from "./rehype-embed-youtube";
+import { rehypeExternalLinks } from "./rehype-external-links";
+import { rehypeInjectElement } from "./rehype-inject-element";
+import { rehypeWrapSections } from "./rehype-wrap-sections";
+import { remarkFallbackBold } from "./remark-fallback-bold";
+
+// rehypeSanitizeのスキーマをカスタマイズ
+const sanitizeSchema = {
+  ...defaultSchema,
+  attributes: {
+    ...defaultSchema.attributes,
+    a: [...(defaultSchema.attributes?.a || []), "target", "rel"],
+  },
+  tagNames: [
+    ...(defaultSchema.tagNames || []),
+    "DifficultyInfoCard",
+    "table",
+    "thead",
+    "tbody",
+    "tr",
+    "th",
+    "td",
+  ],
+};
+
+/**
+ * MarkdownテキストをReact Elementに変換
+ * @param markdown - Markdown形式のテキスト
+ * @param options - オプション（currentLevel等）
+ * @returns React Element（部分水和対応）
+ */
+export async function parseMarkdown(markdown: string): Promise<ReactElement> {
+  // Markdown → mdast（remarkBreaksでソフト改行をbreak nodeに変換）
+  const remarkProcessor = unified()
+    .use(remarkParse)
+    .use(remarkGfm)
+    .use(remarkBreaks)
+    .use(remarkFallbackBold);
+  const parsed = remarkProcessor.parse(markdown);
+  const mdast = (await remarkProcessor.run(parsed)) as typeof parsed;
+
+  // mdast → hast（rehypeプラグイン適用）
+  const hast = await unified()
+    .use(remarkRehype)
+    .use(rehypeWrapSections)
+    .use(rehypeInjectElement, {
+      injections: [
+        {
+          targetH2Index: -1,
+          tagName: "DifficultyInfoCard",
+        },
+      ],
+    })
+    .use(rehypeSanitize, sanitizeSchema)
+    .use(rehypeExternalLinks)
+    .use(rehypeEmbedYouTube)
+    .run(mdast);
+
+  // hast → React Element（部分水和）
+  return toJsxRuntime(hast, {
+    Fragment,
+    jsx,
+    jsxs,
+    components: {
+      DifficultyInfoCard,
+    },
+  });
+}
