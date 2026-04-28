@@ -1,0 +1,21 @@
+{
+  "id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+  "bill_number": "第88号",
+  "name": "人事委員会委員（大澤一司）の選任の同意について",
+  "slug": null,
+  "status": "approved",
+  "status_note": "同意",
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": null,
+  "submitted_date": "2026-03-27",
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [],
+  "faction_stances": [],
+  "created_at": "2026-04-28T13:50:00.000Z",
+  "updated_at": "2026-04-28T13:50:00.000Z"
+}
