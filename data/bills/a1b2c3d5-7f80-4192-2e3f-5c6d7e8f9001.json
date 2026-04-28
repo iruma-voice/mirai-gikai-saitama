@@ -7,15 +7,17 @@
   "status_note": "同意",
   "publish_status": "published",
   "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
-  "is_featured": false,
+  "is_featured": true,
   "published_at": "2026-02-19T14:26:00.000Z",
   "submitted_date": "2026-03-27",
   "thumbnail_url": null,
   "share_thumbnail_url": null,
   "pdf_url": null,
-  "tag_ids": [],
+  "tag_ids": [
+    "fdde6fe1-bc0a-4fb4-b1cd-dc2a403ef89c"
+  ],
   "bill_contents": [],
   "faction_stances": [],
   "created_at": "2026-04-28T13:50:00.000Z",
-  "updated_at": "2026-04-28T14:29:04.719Z"
+  "updated_at": "2026-04-28T14:56:17.213Z"
 }
