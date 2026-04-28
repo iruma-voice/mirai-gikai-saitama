@@ -3,34 +3,34 @@
  * Fork して別の地方議会向けに使用する場合はこのファイルを変更してください。
  */
 export const siteConfig = {
-  siteName: "みらい議会＠川崎市",
+  siteName: "みらい議会＠埼玉県",
   siteDescription:
-    "川崎市議会で今どんな議案が検討されているか、わかりやすく伝えるプラットフォームです",
-  cityName: "川崎市",
-  councilName: "川崎市議会",
+    "埼玉県議会で今どんな議案が検討されているか、わかりやすく伝えるプラットフォームです",
+  cityName: "埼玉県",
+  councilName: "埼玉県議会",
   keywords: [
-    "みらい議会＠川崎市",
+    "みらい議会＠埼玉県",
     "みらい議会",
     "議案",
-    "川崎市",
-    "市議会",
+    "埼玉県",
+    "県議会",
     "地方政治",
     "政策",
     "解説",
   ],
-  councilBaseUrl: "https://www.city.kawasaki.jp/",
+  councilBaseUrl: "https://www.pref.saitama.lg.jp/gikai/",
   /** 議案・議決結果の一覧ページ */
   councilBillsDetailUrl:
-    "https://www.city.kawasaki.jp/shisei/category/40-7-25-0-0-0-0-0-0-0.html",
-  twitterHashtag: "みらい議会川崎版", // # なし
+    "https://www.pref.saitama.lg.jp/gikai/gikaiday/gian/index.html",
+  twitterHashtag: "埼玉県議会", // # なし
   externalLinks: {
-    report: "https://forms.gle/GM4oTN94ttPRjyjp9",
+    report: "",
     aboutNote: "",
-    donation: "https://team-mir.ai/support/donation",
-    teamAbout: "https://team-mir.ai/about",
-    terms: "https://team-mir.ai/terms",
-    privacy: "https://team-mir.ai/privacy",
-    faq: "https://team-mirai.notion.site/FAQ-28cf6f56bae180bd84e7f7ae80f806a1",
+    donation: "",
+    teamAbout: "",
+    terms: "",
+    privacy: "",
+    faq: "",
   },
   /**
    * ページを管理する政党名（空文字列の場合は政党名を省略した汎用表現を使用）
@@ -42,10 +42,10 @@ export const siteConfig = {
    * 利用規約や問い合わせ先に使用します。
    */
   operator: {
-    name: "Gondow" as string,
-    contactUrl: "https://x.com/GondowTakashi" as string,
+    name: "" as string,
+    contactUrl: "" as string,
     /** 利用規約の準拠法・管轄裁判所（第一審の専属的合意管轄） */
-    jurisdiction: "横浜地方裁判所" as string,
+    jurisdiction: "" as string,
   },
   /**
    * 表示切り替えフラグ
@@ -57,7 +57,7 @@ export const siteConfig = {
      * Fork 先で独自ロゴを用意した場合は true にする。
      * `web/public/img/logo.svg` を差し替えてから有効化する。
      */
-    showLogo: true as boolean,
+    showLogo: false as boolean,
     /**
      * チームみらいセクションの表示（トップページ・フッター・デスクトップメニュー）
      * 非公式運営など、党の公式サービスとして出さない場合は false にする。
