@@ -1,0 +1,115 @@
+{
+  "id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+  "bill_number": "議第4号議案",
+  "name": "国勢調査の調査方法の見直しを求める意見書",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [
+    {
+      "id": "8179bf90-6ce1-4b4f-8528-3fdf41f89baf",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "difficulty_level": "normal",
+      "title": "国勢調査の調査方法の見直しを求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "95b0e050-d663-4354-ae48-981d4262e07a",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "difficulty_level": "hard",
+      "title": "国勢調査の調査方法の見直しを求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "acb843f3-94b2-4eb0-a98c-7338234d2bd7",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "25e36482-942a-4eff-b264-d9e522f05765",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "1e040fe5-91a9-47d9-9c91-e7c693b73dc8",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "9cf4613a-6c6f-4103-aad3-05acb98bb016",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "0d36f03e-97ba-4f94-b092-6fb5042d37d2",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "77517bf7-4fbd-4456-8c51-4494262d47cb",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "8bd17fbb-6e8e-4f4c-adb7-80d11dda7ab9",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "39c19351-0ca9-4f79-b396-e638ed9eed58",
+      "bill_id": "728ff2f3-6b91-41ed-94f8-8b121ac116a2",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

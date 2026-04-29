@@ -1,0 +1,117 @@
+{
+  "id": "54332449-f156-4206-88dc-86d37660d300",
+  "bill_number": "第3号議案",
+  "name": "令和8年度埼玉県証紙特別会計予算",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "published",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "fdde6fe1-bc0a-4fb4-b1cd-dc2a403ef89c"
+  ],
+  "bill_contents": [
+    {
+      "id": "38bbcb62-de31-4c5c-9e72-201defa96bc8",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "difficulty_level": "normal",
+      "title": "埼玉県証紙の管理にかかる予算案",
+      "summary": "手数料の支払いに使う「埼玉県証紙」の発行や管理を行うための予算案で、総額は5,120万円です。",
+      "content": "パスポートの申請や試験の手数料などを払うときに使う「埼玉県証紙」を作ったり、管理したりするための予算案です。令和8年度は総額5,120万円が計上されています。",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    },
+    {
+      "id": "cc8833ee-a2e7-4b31-a655-e93b766cd95c",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "difficulty_level": "hard",
+      "title": "令和8年度埼玉県証紙特別会計予算",
+      "summary": "手数料納付などに使われる埼玉県証紙の運用・管理を行う特別会計予算案です。令和8年度の予算総額は5,120万円となっています。",
+      "content": "本議案は、各種手数料の納付などに用いられる埼玉県証紙に関する特別会計の予算案です。令和8年度の歳入歳出予算規模は5,120万円として計上されています。\n\n## 参照\n- [令和8年2月定例会 議案一覧 - 埼玉県議会](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/2.html)",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "25c780ac-1fdf-48f6-99c7-376dd16f712f",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "f6d4d4b3-0193-4954-8ec1-4d32f280d365",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "e42973fb-9513-439c-a385-bb4cf1d71c58",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "80419a5c-023f-4bf8-a03d-1a572b6e3f35",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "e2c3ab0d-6b5d-4a7b-85db-20afb4ccc695",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "90dd8a56-faa6-4ed3-a0ca-6c4f33f50962",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6f1293cb-cdb3-4cae-8304-7f6fd675d897",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "b1511874-e0d7-43ec-afca-8e61860669d4",
+      "bill_id": "54332449-f156-4206-88dc-86d37660d300",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+  "bill_number": "第33号議案",
+  "name": "埼玉県国民健康保険保険給付費等交付金及び国民健康保険事業費納付金に関する条例の一部を改正する条例",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "published",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-28T16:20:50.146Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "cedea95d-6d93-4dac-9bf0-b1858b5dc22f"
+  ],
+  "bill_contents": [
+    {
+      "id": "54ceb2e9-2047-4e78-a938-05dfd4afbd78",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "difficulty_level": "normal",
+      "title": "国民健康保険料に子育て支援のお金を追加する条例の改正",
+      "summary": "国民健康保険のルールを変える条例です。国の新しい制度に基づき、保険料に「子育て支援金」として1人あたり約3,800円を上乗せして集めることが決まりました。",
+      "content": "国が新しく作った子育て支援の仕組みに合わせて、埼玉県の国民健康保険のルールを変えるものです。これにより、国民健康保険に入っている方は、保険料に加えて「子育て支援のためのお金」として1人あたり約3,800円が上乗せされることになります。生活の負担が増えるとして、一部の議員からは反対意見も出ました。",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    },
+    {
+      "id": "97f545fc-b07b-4b26-9c40-bb73bf6d3f74",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "difficulty_level": "hard",
+      "title": "埼玉県国民健康保険保険給付費等交付金及び国民健康保険事業費納付金に関する条例の一部を改正する条例",
+      "summary": "国の法律改正に伴い、国民健康保険税に新たに「子ども・子育て支援拠出金」を上乗せ徴収するための条例改正です。1人当たり約3,849円の実質的な負担増となるため、議会では批判や反対討論が行われました。",
+      "content": "本議案は、国の「子ども・子育て支援法等の一部を改正する法律」の施行に伴い、埼玉県内の国民健康保険税に新たに「子ども・子育て支援拠出金」を上乗せして徴収するための条例改正です。これにより、被保険者1人当たり約3,849円の負担増が見込まれており、県民の医療保険料負担増につながるとして反対討論が行われました。\n\n## 参照\n- [国民健康保険税に子ども子育て支援負担金上乗せ3849円を批判 - 日本共産党埼玉県議会議員団](https://www.jcp-saitama-pref.jp/assembly-report/6423)",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "4dcb24ed-f9d5-4ac8-975a-2da5449de1b6",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "a7fc71be-df8f-4ec3-86ff-b10548987ee9",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "703903f6-58fc-45c2-bda1-6732774d26a6",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "ed35fa92-be9d-49b5-9ab4-97f0ba757a5e",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "1d5944db-34bc-460c-ba37-68e35e4c1ba5",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "5b0c23db-d154-4a73-ab01-dca358118742",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "a7b7ba3c-ad35-4207-abf5-2a0c8417a5fc",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "e34df86c-493a-43a3-b20f-5c7598788d84",
+      "bill_id": "d4cf0baa-6c36-4cda-a7ab-63951864e2d6",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

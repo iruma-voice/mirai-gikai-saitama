@@ -7,8 +7,8 @@
   "status_note": "同意",
   "publish_status": "published",
   "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
-  "is_featured": true,
-  "published_at": "2026-02-19T14:26:00.000Z",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
   "submitted_date": "2026-03-27",
   "thumbnail_url": null,
   "share_thumbnail_url": null,
@@ -28,7 +28,80 @@
       "updated_at": "2026-04-29T00:01:00.000Z"
     }
   ],
-  "faction_stances": [],
+  "faction_stances": [
+    {
+      "id": "59e8c037-7433-4ae7-bf0f-d6c64739d8ec",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "d1f5a045-f07c-4746-a335-b216aa2d25f1",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "f2ac0cc6-46ed-470c-9af2-b989fea62ce7",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "668654dd-1a25-41c8-b9fd-36dd82c6c91d",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "0f399f68-794e-4dfc-bbd9-b2e0f53a2fd7",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "f20ee78c-c266-4a56-a5e5-e2aaf71c845d",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6acfd1ad-3c3f-445b-819c-f6aca1cf97e6",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "672931ca-ecdc-4ad2-b78a-701a78085123",
+      "bill_id": "a1b2c3d5-7f80-4192-2e3f-5c6d7e8f9001",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
   "created_at": "2026-04-28T13:50:00.000Z",
-  "updated_at": "2026-04-28T14:56:17.213Z"
+  "updated_at": "2026-04-29T12:00:20.854Z"
 }

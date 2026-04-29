@@ -1,0 +1,117 @@
+{
+  "id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+  "bill_number": "第4号議案",
+  "name": "令和8年度埼玉県市町村振興事業特別会計予算",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "published",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "fdde6fe1-bc0a-4fb4-b1cd-dc2a403ef89c"
+  ],
+  "bill_contents": [
+    {
+      "id": "e227818a-730e-409e-bc06-f606a62cb652",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "difficulty_level": "normal",
+      "title": "市町村をサポートするための予算案",
+      "summary": "県内の各市町村のまちづくりや財政を県が応援するための予算案で、今年度は約137億円が計上されています。",
+      "content": "埼玉県内の市や町、村がまちづくりをしやすくなるよう、県がお金を貸したり交付したりしてサポートするための予算案です。令和8年度は約137億円が使われます。",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    },
+    {
+      "id": "da0f5a21-68a1-47ed-82c6-ff6d94339447",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "difficulty_level": "hard",
+      "title": "令和8年度埼玉県市町村振興事業特別会計予算",
+      "summary": "県内市町村の財政や事業をバックアップするための特別会計予算案です。令和8年度は137億5,030万3千円の予算が組まれました。",
+      "content": "本議案は、県内の市町村の財政基盤強化や事業推進を支援するための特別会計予算案です。令和8年度の歳入歳出予算は137億5,030万3千円となっており、市町村への貸付金や交付金事業等に充てられます。\n\n## 参照\n- [令和8年2月定例会 議案一覧 - 埼玉県議会](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/2.html)",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "4c7fc370-2f5b-438e-8ec0-43b3a2107780",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "f0e636cf-f018-40dc-907f-3ec03d4590d8",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "9cf6cfbb-298f-49d3-a165-4d56433f8400",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "4485965d-acc0-4b23-95a6-3c0a09d0a7f2",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "292ebb91-35c9-4d19-90f9-e1ae85073b1c",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "dd1011b6-f93a-438f-815c-783fb7c92c91",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "faf5eb81-173c-4319-b0e1-1f95d6fede75",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "e9b5dbd4-6256-4906-8d7d-09a99e904243",
+      "bill_id": "d2193a40-7d0a-4ee6-9694-3f79d97f3a15",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

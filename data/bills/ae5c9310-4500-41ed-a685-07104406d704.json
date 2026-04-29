@@ -1,0 +1,117 @@
+{
+  "id": "ae5c9310-4500-41ed-a685-07104406d704",
+  "bill_number": "第31号議案",
+  "name": "埼玉県屋内総合プール条例",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "1a1721bf-9db7-4974-9a2c-9f439bb05dfe"
+  ],
+  "bill_contents": [
+    {
+      "id": "21e56343-679b-4eb9-8e9a-c3d05a2c5a86",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "difficulty_level": "normal",
+      "title": "埼玉県屋内総合プール条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "c6e0ed6e-b53b-4769-a63a-280556375ce0",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "difficulty_level": "hard",
+      "title": "埼玉県屋内総合プール条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "59ec219b-8862-40d1-9a62-ca648476816a",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "4f84762a-a100-461d-a606-a4965936a4a4",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "5805057b-2fff-4c83-8a92-b053dcc7635b",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "806c7e79-5844-4ebf-bca2-809977d284cd",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "59aa5de4-f732-426e-85e9-964f47e91546",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "d768a47c-3ae1-4789-b1a6-7c585ac441b7",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "ccc75eb5-adf7-423d-a5a4-46489871a64d",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "5312ae54-f00c-4af3-96e0-7645fad61643",
+      "bill_id": "ae5c9310-4500-41ed-a685-07104406d704",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

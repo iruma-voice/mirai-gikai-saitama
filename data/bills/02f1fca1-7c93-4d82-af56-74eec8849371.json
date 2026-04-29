@@ -1,0 +1,115 @@
+{
+  "id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+  "bill_number": "議第18号議案",
+  "name": "衆議院議員総選挙(比例代表選挙区)において名簿登載者不足による議席譲渡が生じないよう公職選挙法の改正を求める意見書",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [
+    {
+      "id": "3ab757bb-ad48-461e-9a52-48295874f0fa",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "difficulty_level": "normal",
+      "title": "衆議院議員総選挙(比例代表選挙区)において名簿登載者不足による議席譲渡が生じないよう公職選挙法の改正を求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "49e19f04-1a12-4e16-9cd4-560a98d20ebb",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "difficulty_level": "hard",
+      "title": "衆議院議員総選挙(比例代表選挙区)において名簿登載者不足による議席譲渡が生じないよう公職選挙法の改正を求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "a625d653-b679-4cf2-8a8a-f880b6ca0e2e",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "2c1e44d5-03e3-42c7-9200-75135631a7fa",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "8763d88d-35ae-4586-be68-597a6ed88f9e",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "f58e48e4-b6e5-4cb2-b045-287ceb4e4a45",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "bb3a4286-d910-4b77-901c-3fe807ff3ced",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "b3fe379e-b9fc-48a3-8f49-737177bec7c0",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "2580daba-c591-4522-ab02-d7c6f3bba163",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "bfd40331-2a32-4970-8c7e-9238fbb192fb",
+      "bill_id": "02f1fca1-7c93-4d82-af56-74eec8849371",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+  "bill_number": "第39号議案",
+  "name": "埼玉県県産木材利用促進条例",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "published",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "1a1721bf-9db7-4974-9a2c-9f439bb05dfe"
+  ],
+  "bill_contents": [
+    {
+      "id": "3430951e-572a-4b5e-a1a7-c079d3223787",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "difficulty_level": "normal",
+      "title": "埼玉の木をもっと活用するための新しいルール（条例）",
+      "summary": "埼玉県産の木材を積極的に使うための新しいルールです。地元の木を使うことで、森の環境を守り、林業を元気にし、私たちの豊かな暮らしにつなげることを目的としています。",
+      "content": "埼玉県内で育った木（県産木材）を、家づくりや公共の建物などでもっとたくさん使おう、という目標や仕組みを定めた新しいルールです。地元の木を積極的に使うことで、森が手入れされてきれいに保たれ、林業のお仕事も元気になり、結果として私たちの自然豊かな暮らしにつながることを目指しています。",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    },
+    {
+      "id": "4adbd6b6-47ab-4e92-88bb-5463547aa937",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "difficulty_level": "hard",
+      "title": "埼玉県県産木材利用促進条例",
+      "summary": "埼玉県産の木材の利用を促進し、関連施策を計画的に推進するための新しい条例です。森林環境の保全や、林業・木材産業の発展を通じて、県民生活の向上を図ることを目的としています。",
+      "content": "本議案は、県内で生産された木材（県産木材）の利用を促進するための基本理念等を定める条例の制定に関するものです。県産木材の利用促進に関する施策を総合的かつ計画的に推進することで、森林の有する多面的機能の持続的な発揮、県内の林業および木材産業の持続的かつ健全な発展、さらには県民の豊かな暮らしの実現に寄与することを目指しています。\n\n## 参照\n- [令和8年2月定例会 知事提案説明要旨 - 埼玉県議会](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/3.html)",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "03079b98-8507-46b6-84f9-f2812b716005",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "75272421-19c4-4b70-bfe2-8d990b2e3391",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "16c76bee-dc9a-451e-bd7a-b80d16592797",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "2ecd037b-3a9b-44e6-928b-b40ad0ec2dbb",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "e8257970-2bd1-4a90-ad2a-1e0f9f09e7b7",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "aa835dda-f2f4-4fc8-8ed9-91ef7dee43cd",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "5b490355-4811-4488-a608-05727270e925",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6006bac9-6cd4-4c72-b929-013b58596064",
+      "bill_id": "a7c756b1-8b9d-4f57-ab28-227a211bb555",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

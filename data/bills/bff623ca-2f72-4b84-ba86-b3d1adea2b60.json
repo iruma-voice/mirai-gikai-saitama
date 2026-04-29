@@ -1,0 +1,115 @@
+{
+  "id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+  "bill_number": "第35号議案",
+  "name": "食品衛生法施行条例の一部を改正する条例",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [
+    {
+      "id": "861e9b44-3d7e-4a32-8718-8bd3e86a9c2a",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "difficulty_level": "normal",
+      "title": "食品衛生法施行条例の一部を改正する条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "b3abf037-1116-4c26-b1cc-c15cec7d6fd6",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "difficulty_level": "hard",
+      "title": "食品衛生法施行条例の一部を改正する条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "9026334d-e5fd-4a08-89ce-7d1395b65924",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3fc769b6-d4e9-486f-a5b7-a7bce06dba64",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "121bfee2-bfe8-4fd9-b279-80ff0e0f4975",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "03a0e6cd-3ee4-4969-a718-8449c3690659",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3dc1193a-7067-4ff2-9c24-e32b6a385961",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "0282af69-607f-4f49-a645-ccd7038126d8",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "27d5b7a9-0889-4470-b514-ee75711e7db1",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3549239e-057f-4e86-945f-74923b676639",
+      "bill_id": "bff623ca-2f72-4b84-ba86-b3d1adea2b60",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

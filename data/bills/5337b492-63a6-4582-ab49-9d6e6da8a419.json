@@ -1,0 +1,117 @@
+{
+  "id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+  "bill_number": "第61号議案",
+  "name": "首都高速道路株式会社の埼玉県道高速葛飾川口線等に関する事業の変更の同意について",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "1a1721bf-9db7-4974-9a2c-9f439bb05dfe"
+  ],
+  "bill_contents": [
+    {
+      "id": "c7bc5d20-1a9a-4522-8f49-3f208a123a99",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "difficulty_level": "normal",
+      "title": "首都高速道路株式会社の埼玉県道高速葛飾川口線等に関する事業の変更の同意について",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "8ff33009-65c0-45da-b660-3b6e22309360",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "difficulty_level": "hard",
+      "title": "首都高速道路株式会社の埼玉県道高速葛飾川口線等に関する事業の変更の同意について",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "5d2367d8-adc4-4470-adb2-ea1d2dd68a31",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "8c87fec6-5df7-436d-baf1-57e2ea006781",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "edad36ef-b6a5-4746-998f-b492cbdcf5b9",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6dc7f66f-4b3d-4f0d-89ae-c117f1f3b941",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6d51df42-5220-4497-9ad6-4a2d0a1a657b",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "f4295675-364a-451e-84d9-378c4996d2ac",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6371e887-bf5c-4462-b91b-886ce688a458",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "eb302af9-f38d-4a96-a5c9-909f4a89658b",
+      "bill_id": "5337b492-63a6-4582-ab49-9d6e6da8a419",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

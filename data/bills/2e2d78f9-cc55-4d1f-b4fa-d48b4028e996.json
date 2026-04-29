@@ -1,0 +1,115 @@
+{
+  "id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+  "bill_number": "第27号議案",
+  "name": "埼玉県個人番号の利用等に関する条例の一部を改正する条例",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [
+    {
+      "id": "5747d3a4-8960-40a1-85a1-370f8273ee88",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "difficulty_level": "normal",
+      "title": "埼玉県個人番号の利用等に関する条例の一部を改正する条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "d5c00ebd-5f39-45b5-a157-f72d6d29c191",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "difficulty_level": "hard",
+      "title": "埼玉県個人番号の利用等に関する条例の一部を改正する条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "07783019-f83b-49bf-9fc6-61cbb643a66b",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3fedc857-841a-44d7-90f1-4b6a708e5b59",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "31f853ed-1323-4e8d-9d6d-ae2dbcbc398c",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "232229a0-fc9f-40cf-b0d7-b1bed090cb6d",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "495a47ae-7d50-4ff8-a4e5-1b34d32b2102",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "b8e669d5-fdab-4774-ab24-05c689231152",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "2cc06871-b2ef-428e-a7d4-892c5f7412b7",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "56c09960-e1cb-4a5c-b290-81959bf8c219",
+      "bill_id": "2e2d78f9-cc55-4d1f-b4fa-d48b4028e996",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

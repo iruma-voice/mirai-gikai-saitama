@@ -1,0 +1,117 @@
+{
+  "id": "639d13ae-5b12-4608-9590-4931885f7e46",
+  "bill_number": "第40号議案",
+  "name": "埼玉県手数料条例の一部を改正する条例",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "fdde6fe1-bc0a-4fb4-b1cd-dc2a403ef89c"
+  ],
+  "bill_contents": [
+    {
+      "id": "4447fa07-a175-4252-a0aa-079b9a3ef508",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "difficulty_level": "normal",
+      "title": "埼玉県手数料条例の一部を改正する条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "7baf3dc3-9abc-4c71-92f0-817a2b910bba",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "difficulty_level": "hard",
+      "title": "埼玉県手数料条例の一部を改正する条例",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "041659f0-313f-493b-9fe0-31c70245d032",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "53a23619-27e9-489b-95a4-1b8128beb7ae",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "27d57b9d-f383-4c88-b01d-c8074bc69410",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "a8769a04-2dbe-45e1-be4f-fe81f807c715",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3b4c3014-71d7-4fa5-a03b-5dac7e5c74cd",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "ef2013e3-f8bc-41c2-beea-7f9ecbd6e13d",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "ebab3a80-39a4-4de6-b6a2-15bb69c5ec1b",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3411bed9-6a06-4097-a9d3-797eb2a508d6",
+      "bill_id": "639d13ae-5b12-4608-9590-4931885f7e46",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

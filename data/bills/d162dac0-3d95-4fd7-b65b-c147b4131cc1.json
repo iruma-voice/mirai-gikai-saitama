@@ -1,0 +1,115 @@
+{
+  "id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+  "bill_number": "第51号議案",
+  "name": "訴えの提起について",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [
+    {
+      "id": "e91ad890-1571-46e6-8bdc-16675e26540b",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "difficulty_level": "normal",
+      "title": "訴えの提起について",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "93c1ce00-2096-4dda-a3b9-a2b5045b9957",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "difficulty_level": "hard",
+      "title": "訴えの提起について",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "852a3579-d91f-4b3d-b1f4-4a5f57a3985f",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "088f2ee5-5766-463a-a3fe-894405f10290",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6e482355-1ecc-4354-b083-d2f4add22b23",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "03631db9-cc5f-426e-b72e-beb8f9ac9e60",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "e6f76036-e8f4-45af-8c2b-7ef84cc8ac87",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "5e55e9a0-8dd1-4986-9a06-9824e55d4e56",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "8b92d9a9-18f8-4d4b-bcc1-a332d0d3b4f0",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "7504f59c-7836-41d4-a6e0-26c4ed8568b1",
+      "bill_id": "d162dac0-3d95-4fd7-b65b-c147b4131cc1",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

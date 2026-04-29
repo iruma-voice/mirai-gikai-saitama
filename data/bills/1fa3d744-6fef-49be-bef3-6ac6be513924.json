@@ -1,0 +1,118 @@
+{
+  "id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+  "bill_number": "第21号議案",
+  "name": "令和8年度埼玉県流域下水道事業会計予算",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "published",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [
+    "fdde6fe1-bc0a-4fb4-b1cd-dc2a403ef89c",
+    "1a1721bf-9db7-4974-9a2c-9f439bb05dfe"
+  ],
+  "bill_contents": [
+    {
+      "id": "26cceaa9-a70b-4476-8916-e395be60bef9",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "difficulty_level": "normal",
+      "title": "広域の汚水をきれいにする下水道の予算案",
+      "summary": "複数の市町村をまたぐ大きな下水道事業の予算案です。施設を維持するためのお金が増えたほか、八潮市での事故を直すための費用（約4.3億円）が含まれています。",
+      "content": "複数の市や町から集まった汚水を、大きな施設でまとめてきれいにするための予算案です（約263億円）。下水道の維持管理にかかるお金が増えたほか、八潮市で起きた下水道事故の修理費用として約4.3億円が追加されています。この修理費用については、県民ではなく国や県が中心になって負担すべきだという意見も出ました。",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    },
+    {
+      "id": "4bc8d28d-2396-4488-96ff-b2a2367b7860",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "difficulty_level": "hard",
+      "title": "令和8年度埼玉県流域下水道事業会計予算",
+      "summary": "複数の市町村の汚水を一括処理する流域下水道事業の予算案（263億1,995万円）です。市野川流域下水道の維持管理負担の増額に加え、八潮市での事故復旧費として4.3億円の負担増が見込まれており、事故復旧費は国や県が負担すべきだとする反対意見がありました。",
+      "content": "本議案は、複数の市町村にまたがる下水を処理する流域下水道事業に関する地方公営企業会計の予算案です。歳入歳出予算規模は263億1,995万円です。本年度は、市野川流域下水道の維持管理負担金の増額や、八潮市で発生した事故の復旧費として約4.3億円の負担増を見込んだ事業内容が含まれています。\n\n## 参照\n- [令和8年2月定例会 議案一覧 - 埼玉県議会](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/2.html)\n- [伊豆潮風館廃止検討など批判 - 日本共産党埼玉県議会議員団](https://www.jcp-saitama-pref.jp/assembly-report/6421)",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T16:16:44.000Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "62133935-48a7-4a50-aa33-c6500b1bc4e1",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "50358e47-7e6d-43cf-b063-3732ee68d838",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "3f1f4330-5747-487a-b6de-7b18efb98268",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "1d33d4f5-0741-45dc-a609-df318b7869f1",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "7bfe9cc3-aae8-48b3-b292-cff3979121f0",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "6be254e4-0938-431a-aefa-c7bb394654d6",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "7cbe1a7e-d992-4bb9-9c66-d970cd19496e",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "4819b56a-20c8-4032-b1c6-7850fe49a2a7",
+      "bill_id": "1fa3d744-6fef-49be-bef3-6ac6be513924",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}

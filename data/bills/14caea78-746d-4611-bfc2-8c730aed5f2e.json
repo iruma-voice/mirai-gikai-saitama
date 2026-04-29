@@ -1,11 +1,11 @@
 {
-  "id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
-  "bill_number": "議第2号",
-  "name": "埼玉県議会委員会規程の一部を改正する規程",
+  "id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
+  "bill_number": "議第17号議案",
+  "name": "自衛官の処遇改善及び退職自衛官の再就職支援の充実を求める意見書",
   "slug": null,
   "status": "approved",
-  "status_note": "原案可決",
-  "publish_status": "published",
+  "status_note": null,
+  "publish_status": "draft",
   "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
   "is_featured": false,
   "published_at": "2026-04-29T07:48:41.114Z",
@@ -16,20 +16,30 @@
   "tag_ids": [],
   "bill_contents": [
     {
-      "id": "bc002-d8e9f0a2-normal",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
-      "title": "委員会のルールを改正し、出産前の欠席届を8週間前から出せるようにします",
-      "summary": "出産を控えた議員が委員会を欠席する際の届け出期間を、産前8週間前からに改正します。",
-      "content": "## どんな議案？\n\n埼玉県議会の「委員会規程」（各委員会の運営ルール）を一部改正する議案です。\n\n## 何が変わるの？\n\n出産前の議員が委員会を欠席する際の届け出期間を、**産前8週間前**に改正します。\n\n## なぜ改正するの？\n\n国の標準的なルールが改正されたことを受け、本会議規則（議第1号）と合わせて委員会規程も同じ基準に統一するためです。\n\n## 賛否結果\n\n**原案可決**",
+      "id": "44db9c58-7da2-445f-a865-4493c7cb42a3",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "difficulty_level": "normal",
-      "created_at": "2026-04-29T00:01:00.000Z",
-      "updated_at": "2026-04-29T00:01:00.000Z"
+      "title": "自衛官の処遇改善及び退職自衛官の再就職支援の充実を求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "52f91b67-9008-4fc7-88ee-967325eaad0f",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
+      "difficulty_level": "hard",
+      "title": "自衛官の処遇改善及び退職自衛官の再就職支援の充実を求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
     }
   ],
   "faction_stances": [
     {
-      "id": "b90605bd-c813-40ec-9b8e-80c2bfeadcab",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "11306338-f411-48f3-9f09-97d32c05aea6",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
       "type": "for",
       "comment": null,
@@ -37,8 +47,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "60a4e282-f543-432a-b0e3-8d630de5cb6f",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "c5f5455b-1ad7-48a1-8c15-1e05ce10ec06",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
       "type": "for",
       "comment": null,
@@ -46,8 +56,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "e0bb0b82-30e7-417d-ae94-5e65302c6ad0",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "566d0916-c754-4ec6-a374-d73a00cce949",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
       "type": "for",
       "comment": null,
@@ -55,8 +65,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "020ff6f1-ccfd-469f-950e-983264ff466d",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "7da2508a-7123-441a-9d4a-1f6f2da6d83d",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
       "type": "for",
       "comment": null,
@@ -64,8 +74,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "b2866735-5926-4bc8-bc68-3fa90cfc41eb",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "e14768e0-9294-4501-af94-18644c1f89bd",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
       "type": "for",
       "comment": null,
@@ -73,8 +83,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "9249b100-b0e3-419e-8499-1d514571e858",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "e46e23b0-4ee0-4a0e-a577-adb90ec9b168",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
       "type": "for",
       "comment": null,
@@ -82,8 +92,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "30ddd8d0-259e-487e-9f12-9f16a1891854",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "e63add1d-62c5-4174-a81c-31a452e1f993",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
       "type": "for",
       "comment": null,
@@ -91,8 +101,8 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     },
     {
-      "id": "5947092a-168a-4afd-b3a5-17c22d5f7409",
-      "bill_id": "d8e9f0a2-4c5d-4e6f-9b0c-2f3a4b5c6d7e",
+      "id": "953038d5-3389-4ecb-a7ec-6987fc53770a",
+      "bill_id": "14caea78-746d-4611-bfc2-8c730aed5f2e",
       "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
       "type": "for",
       "comment": null,
@@ -100,6 +110,6 @@
       "updated_at": "2026-04-29T12:00:20.854Z"
     }
   ],
-  "created_at": "2026-04-28T13:50:00.000Z",
+  "created_at": "2026-04-28T15:32:28.646Z",
   "updated_at": "2026-04-29T12:00:20.854Z"
 }

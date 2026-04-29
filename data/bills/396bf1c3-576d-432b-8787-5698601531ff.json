@@ -1,0 +1,115 @@
+{
+  "id": "396bf1c3-576d-432b-8787-5698601531ff",
+  "bill_number": "議第12号議案",
+  "name": "文化財の防火対策の抜本的強化を求める意見書",
+  "slug": null,
+  "status": "approved",
+  "status_note": null,
+  "publish_status": "draft",
+  "council_session_id": "0b09a9d4-52eb-49a9-9341-3bd1223a1217",
+  "is_featured": false,
+  "published_at": "2026-04-29T07:48:41.114Z",
+  "submitted_date": null,
+  "thumbnail_url": null,
+  "share_thumbnail_url": null,
+  "pdf_url": null,
+  "tag_ids": [],
+  "bill_contents": [
+    {
+      "id": "8df45017-46b5-499a-b37d-855bb2a649f3",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "difficulty_level": "normal",
+      "title": "文化財の防火対策の抜本的強化を求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    },
+    {
+      "id": "84c76583-8af5-447a-a1c4-8920e2c96190",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "difficulty_level": "hard",
+      "title": "文化財の防火対策の抜本的強化を求める意見書",
+      "summary": "",
+      "content": "",
+      "created_at": "2026-04-28T15:32:28.646Z",
+      "updated_at": "2026-04-28T15:32:28.646Z"
+    }
+  ],
+  "faction_stances": [
+    {
+      "id": "74ccaf5c-b988-4e9e-ad2e-389a15ff70ce",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "654436e9-bdd2-4b55-bbd2-bdce3925ed2e",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "0e4be209-2fac-463e-a554-cd214ed45ab5",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "f73ba8a7-bba2-4529-90d7-5bb3c6e7f443",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "4e11244c-aa92-470d-8680-8c5d0bbb33e1",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "d2a5ec48-1d28-4387-ba43-85537505074a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "59d143a5-7d8a-48ef-9f25-b392c97cb05c",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "8d6ebd48-ff1a-4c54-9214-0cba4fe1791a",
+      "type": "against",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "0d4a688f-0f47-42f6-bd82-c1f52fe6d15c",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "717b90f4-2346-40f5-be5e-9bed79035798",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "c7fe3c87-fbc2-4773-8096-ad4dae787959",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "f66494b5-3828-44cc-89cc-7bb567b06ff7",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "8fd4013a-c015-4cc9-ad9d-b3693dc70f86",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "282d8bdc-e57e-4f46-8e62-2a34f5af9d24",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    },
+    {
+      "id": "65968509-67d9-452d-b887-d6a27e4358c7",
+      "bill_id": "396bf1c3-576d-432b-8787-5698601531ff",
+      "faction_id": "30b725e5-d990-45f3-aeb9-2e2c3662787a",
+      "type": "for",
+      "comment": null,
+      "created_at": "2026-04-29T12:00:20.854Z",
+      "updated_at": "2026-04-29T12:00:20.854Z"
+    }
+  ],
+  "created_at": "2026-04-28T15:32:28.646Z",
+  "updated_at": "2026-04-29T12:00:20.854Z"
+}
